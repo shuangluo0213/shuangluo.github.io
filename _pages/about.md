@@ -22,17 +22,17 @@ Shuang Luo
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
-- 2021.09 - Present: Ph.D. candidate in Civil Engineering
-  Hunan University, Hunan, China 
-  Major: Civil Engineering Materials
+- 2021.09 - Present: Ph.D. candidate in Civil Engineering  
+  Hunan University, Hunan, China  
+  Major: Civil Engineering Materials  
   
-- 2018.09 - 2021.06: M.Sc. in Civil Engineering
-  Guizhou University, Hunan, China
-  Major: Structural Engineering
+- 2018.09 - 2021.06: M.Sc. in Civil Engineering  
+  Guizhou University, Hunan, China  
+  Major: Structural Engineering  
 
-- 2014.09 - 2018.06: B.Sc. in Engineering Ma
-  Shenyang University of Technology, Liaoning, China
-  Major: Engineering Management
+- 2014.09 - 2018.06: B.Sc. in Engineering Management  
+  Shenyang University of Technology, Liaoning, China  
+  Major: Engineering Management  
 
 
 # 🔥 News
