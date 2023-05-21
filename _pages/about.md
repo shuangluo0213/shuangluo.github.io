@@ -26,6 +26,10 @@ My research interest includes neural machine translation and computer vision. I 
   Hunan University, Hunan, China
   Major: Civil Engineering Materials
 
+- 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
+  Korea University (KU), Seoul, South Korea  
+  Major: Communication and Networks  
+  
 - *2018.09 - 2021.06*: M.Sc. in Civil Engineering
   Guizhou University, Hunan, China
   Major: Structural Engineering
