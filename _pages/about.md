@@ -20,7 +20,7 @@ redirect_from:
 Shuang Luo
 
 
-# 📖 Educations
+# Educations
 - *2021.09 - Present*: Ph.D. candidate in Civil Engineering  
   Hunan University, Hunan, China  
   Major: Civil Engineering Materials  
