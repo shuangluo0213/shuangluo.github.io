@@ -39,8 +39,8 @@ Shuang Luo
 
 
 # Selected Publications
-- **S Luo**, MZ Guo, FP Zhu, BT Pham, H Liu, TC Ling Role of interaction between molding pressure and CO2 pressure in carbonating cement block. *Journal of Building Engineering*,2023, 78: 107579
-- **Luo S**, Guo M-Z, Ling T-C. Mechanical and microstructural performances of fly ash blended cement pastes with mixing CO2 during fresh stage. *Construction and Building Materials*, 2022, 358: 129444. https://doi.org/10.1016/j.conbuildmat.2022.129444.
+- **S Luo**, MZ Guo, FP Zhu, BT Pham, H Liu, TC Ling, [Role of interaction between molding pressure and CO2 pressure in carbonating cement block](https://doi.org/10.1016/j.jobe.2023.107579). *Journal of Building Engineering*,2023, 78: 107579
+- **Luo S**, Guo M-Z, Ling T-C. [Mechanical and microstructural performances of fly ash blended cement pastes with mixing CO2 during fresh stage](https://doi.org/10.1016/j.conbuildmat.2022.129444). *Construction and Building Materials*, 2022, 358: 129444.
 - **罗双**, 付汝宾, 孔德文, 谢浪, 周银笙, 赵砚. 掺合料对磷石膏基复合胶凝材料耐水性及强度的影响综述.*无机盐工业*,2020,52(11):6-11.
 
 # Patents
