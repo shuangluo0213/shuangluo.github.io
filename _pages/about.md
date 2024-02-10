@@ -24,7 +24,7 @@ Shuang Luo
 - *2021.09 - Present*: Ph.D. candidate in Civil Engineering  
   Hunan University, Hunan, China  
   Major: Civil Engineering Materials  
-  
+
 - *2018.09 - 2021.06*: M.Sc. in Civil Engineering  
   Guizhou University, Guizhou, China  
   Major: Structural Engineering  
@@ -35,10 +35,11 @@ Shuang Luo
 
 
 # Internships
-- *2019.08 - 2019.09*: California State Polytechnic University,Pomona, USA
+- *2019.08 - 2019.09*: California State Polytechnic University, Pomona, USA
 
 
-# Publications 
+# Selected Publications
+- **S Luo**, MZ Guo, FP Zhu, BT Pham, H Liu, TC Ling Role of interaction between molding pressure and CO2 pressure in carbonating cement block. *Journal of Building Engineering*,2023, 78: 107579
 - **Luo S**, Guo M-Z, Ling T-C. Mechanical and microstructural performances of fly ash blended cement pastes with mixing CO2 during fresh stage. *Construction and Building Materials*, 2022, 358: 129444. https://doi.org/10.1016/j.conbuildmat.2022.129444.
 - **罗双**, 付汝宾, 孔德文, 谢浪, 周银笙, 赵砚. 掺合料对磷石膏基复合胶凝材料耐水性及强度的影响综述.*无机盐工业*,2020,52(11):6-11.
 
@@ -56,7 +57,7 @@ Shuang Luo
 
 # Projects
 - 脱硫石油焦渣协同CO2制备预拌水泥基材料的应用基础研究 [2023Ph.D-6]，非金属材料创新中心博士生计划项目，在研，10万元，主持。
-- 普通硅酸盐-CO2强化高贝利特硫铝酸盐水泥复合体系的性能研究，2023年湖南省研究生科研创新项目，在研，3万元，主持。
+- 普通硅酸盐-CO2强化高贝利特硫铝酸盐水泥复合体系的性能研究 [CX20230390]，2023年湖南省研究生科研创新项目，在研，3万元，主持。
 
 # Honors and Awards
 - *2022*, “cleer杯”第一届中国研究生“双碳”创新与创意大赛获国家级二等奖
